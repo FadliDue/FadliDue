@@ -19,9 +19,11 @@
 <!-- Programming Languages -->
 <h4>Programming Languages</h4>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,py,bash)](https://skillicons.dev)
-</p> 
-
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,cpp,py,bash"/>
+    </a>
+</p>
+    
 <!-- Hardware and Embedded Systems -->
 <h4>Hardware and Embedded Systems</h4>
 <p align="center">
