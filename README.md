@@ -30,8 +30,8 @@
     </a>
 </p>
 
-<!-- Web Development -->
-<h4>Web Development</h4>
+<!-- Web Technologies -->
+<h4>Web Technologies</h4>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -64,11 +64,11 @@
     </a>
 </p>
 
-<!-- DevOps and Tools -->
-<h4>DevOps and Tools</h4>
+<!-- DevOps and Version Control -->
+<h4>DevOps and Version Control</h4>
 <p align="left">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm
+        <img src="https://www.vectorlogo
