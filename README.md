@@ -8,6 +8,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fadlidue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fadlidue/" height="30" width="40" /></a>
 </p>
 
+<hr />
+<h3 align="left">Github Stats</h3>
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=false">    <img  alt="FadliDue's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FadliDue?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
 
 <h3 align="left">Languages and Tools:</h3>
