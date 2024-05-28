@@ -10,7 +10,9 @@
 
 <hr />
 <h3 align="center">Github Stats</h3>
-<a align="center" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=false">    <img  alt="FadliDue's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FadliDue?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
+<p align="center">
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=false">    <img  alt="FadliDue's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FadliDue?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
