@@ -48,7 +48,7 @@
 
 <!-- Databases -->
 <h4>Databases</h4>
-<p align="left">
+<p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
@@ -62,7 +62,7 @@
 
 <!-- DevOps and Version Control -->
 <h4>DevOps and Version Control</h4>
-<p align="left">
+<p align="center">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
@@ -76,7 +76,7 @@
 
 <!-- Design and UI/UX -->
 <h4>Design and UI/UX</h4>
-<p align="left">
+<p align="center">
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     </a>
@@ -84,7 +84,7 @@
 
 <!-- Scientific Computing -->
 <h4>Scientific Computing</h4>
-<p align="left">
+<p align="center">
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
